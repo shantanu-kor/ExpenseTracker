@@ -6,7 +6,7 @@ npm install
 
 npm start
 
-In .env file
+In .env file -
 
 REACT_APP_LOGIN_KEY= Web API Key
 
